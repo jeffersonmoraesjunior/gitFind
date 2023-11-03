@@ -1,3 +1,56 @@
+<h1 align="center"> - GIT FIND - </h1>
+
+<p align="center">
+Em caracter de estudo e aprimoramentos da máteria de React, elaborei um exemplo de uma site para Desk que busca perfis do Github.
+<br>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="super mario bros" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30%">
+</p>
+
+## Tecnologias
+
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Git e Github
+- REACT
+- Google Fonts
+
+## 💻 Projeto
+
+O Git Find Bros é um pequeno projeto de aprimoramento em React.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://github.com/jeffersonmoraesjunior).
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+<br>
+<p align="center" style="font-size: 25px;" >Feito com ♥ by Jefferson Moraes!</p>
+<br>
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
